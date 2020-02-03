@@ -1,0 +1,6 @@
+Biaya Perjam: 2000
+Waktu Penggunaan: 2
+Pesanan Lainnya (snack): 1000
+Total Bayar: Rp. 5,000
+Uang yang dibayar: 12000
+Kembalian : 7000
